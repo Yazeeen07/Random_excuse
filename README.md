@@ -1,30 +1,30 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+#  RANDOM EXCUZE
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: SAPPHIRE
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: M Mohammed Yaseen - [cucek]
+- Member 2:  Shreya R - [cucek]
+- Member 3: Ronia Harshan - [cucek]
 
 ### Project Description
-[2-3 lines about what your project does]
 
+A random excuse generator is a tool that creates a variety of plausible excuses for various situations, such as skipping an event, missing a deadline, or avoiding a commitment. It can produce humorous, creative, or believable reasons tailored to different contexts, helping users navigate social obligations or professional responsibilities with ease. 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+To find an excuse immediately 
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+By creating an random excuse generator 
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
+- Used languages :-java,css, html
 - [Frameworks used]
 - [Libraries used]
 - [Tools used]
