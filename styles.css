@@ -1,30 +1,62 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Nosifer&display=swap');
+
 body {
-    font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
+    font-family: 'Nosifer';
+    background: linear-gradient(135deg, #ff9a9e, #fad0c4, #fad0c4, #fbc2eb, #a18cd1, #fad0c4);
+    background-size: 300% 300%;
+    animation: gradientAnimation 15s ease infinite;
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
     margin: 0;
+    color: #fff;
+    text-align: center;
 }
 
-.container {
-    text-align: center;
-    background: white;
-    padding: 20px;
-    border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+@keyframes gradientAnimation {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+}
+
+h1 {
+    font-size: 2.5em;
+    font-weight: 700;
+    margin-bottom: 20px;
+    color: #ffffff;
+    letter-spacing: 1px;
+    text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.7);
+}
+
+#excuse {
+    font-size: 1.5em;
+    font-weight: 300;
+    color: #ffffff;
+    margin: 20px 0;
+    line-height: 1.4;
+    letter-spacing: 0.5px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.25);
+    transition: font-family 0.3s ease-in-out; /* Smooth transition for font change */
 }
 
 button {
-    padding: 10px 20px;
+    padding: 12px 24px;
     border: none;
-    border-radius: 5px;
-    background-color: #007bff;
-    color: white;
+    border-radius: 8px;
+    background: linear-gradient(90deg, #f7971e, #ffd200);
+    color: #333;
+    font-size: 16px;
+    font-weight: bold;
+    letter-spacing: 0.5px;
     cursor: pointer;
+    transition: transform 0.2s ease, background 0.3s ease;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
 }
 
 button:hover {
-    background-color: #0056b3;
+    background: linear-gradient(90deg, #ffd200, #f7971e);
+    transform: scale(1.05);
 }
