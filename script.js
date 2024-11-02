@@ -30,7 +30,7 @@ const excuses = [
     "I accidentally locked myself in the bathroom.",
     "I had to take care of a family emergency.",
     "I forgot how to do it.",
-    "I was too busy saving the world."
+    "I was too busy saving the world.",
     "I died before I could do it."
 ];
 
