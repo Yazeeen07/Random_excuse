@@ -1,3 +1,24 @@
+// Array of font families to cycle through
+const fonts = [
+    "'Arial', sans-serif",
+    "'Courier New', monospace",
+    "'Georgia', serif",
+    "'Times New Roman', serif",
+    "'Verdana', sans-serif",
+    "'Tahoma', sans-serif",
+    "'Lucida Console', monospace",
+    "'Roboto', sans-serif",
+    "'Comic Sans MS', cursive"
+];
+
+// Function to cycle through fonts
+let fontIndex = 0;
+setInterval(() => {
+    document.getElementById('excuse').style.fontFamily = fonts[fontIndex];
+    fontIndex = (fontIndex + 1) % fonts.length; // Loop back to start when reaching the end
+}, 500);
+
+// Random excuse generator
 const excuses = [
     "I couldn't find my shoes.",
     "My dog ate my homework.",
