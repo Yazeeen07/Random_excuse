@@ -39,15 +39,13 @@ For Software: https://yazeeen07.github.io/Random_excuse/
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+# Screenshots (Add at least 3) 
+Screenshot 1 :- https://www.instagram.com/p/DB4E2zYSIC9/?igsh=Nmdwd3B6ZjB4cjIy
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+Screenshot 2 :- https://www.instagram.com/p/DB4FJFjybF2/?igsh=MXh1eG4ycTNtNzRpNA==
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+Screenshot 3 :-
+https://www.instagram.com/p/DB4Fc4DSnpV/?igsh=cXhoeWcyZXZvb2R2
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
@@ -80,9 +78,10 @@ For Hardware:
 # Additional Demos
 [Add any extra demo materials/links]
 
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
+## Team Contributions 
+M Mohammed Yaseen :- Team lead & Java script
+Shreya R          :- UI designing 
+Ronia Harshan     :- Frontend developing 
 - [Name 3]: [Specific contributions]
 
 ---
