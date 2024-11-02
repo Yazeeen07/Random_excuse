@@ -31,6 +31,7 @@ const excuses = [
     "I had to take care of a family emergency.",
     "I forgot how to do it.",
     "I was too busy saving the world."
+    "I died before I could do it."
 ];
 
 document.getElementById('generate-btn').addEventListener('click', function() {
