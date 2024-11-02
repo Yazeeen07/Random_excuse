@@ -71,12 +71,9 @@ For Hardware:
 *Explain the final build*
 
 ### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+# Videos 
+https://www.instagram.com/reel/DB4HSCoSIVd/?igsh=ZTljeHFkczJzM2xr
 
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions 
 M Mohammed Yaseen :- Team lead & Java script
