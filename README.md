@@ -76,9 +76,9 @@ https://www.instagram.com/reel/DB4HSCoSIVd/?igsh=ZTljeHFkczJzM2xr
 
 
 ## Team Contributions 
-M Mohammed Yaseen :- Team lead & Java script
-Shreya R          :- UI designing 
-Ronia Harshan     :- Frontend developing 
+- M Mohammed Yaseen :- Team lead & Java script
+- Shreya R          :- UI designing 
+- Ronia Harshan     :- Frontend developing 
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
