@@ -26,6 +26,7 @@ const excuses = [
     "I thought today was Saturday.",
     "I was abducted by aliens.",
     "My internet was down.",
+    "I was not well.",
     "I accidentally locked myself in the bathroom.",
     "I had to take care of a family emergency.",
     "I forgot how to do it.",
