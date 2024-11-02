@@ -39,7 +39,7 @@ For Software: https://yazeeen07.github.io/Random_excuse/
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3) 
+# Screenshots 
 Screenshot 1 :- https://www.instagram.com/p/DB4E2zYSIC9/?igsh=Nmdwd3B6ZjB4cjIy
 
 Screenshot 2 :- https://www.instagram.com/p/DB4FJFjybF2/?igsh=MXh1eG4ycTNtNzRpNA==
