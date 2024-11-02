@@ -24,18 +24,12 @@ By creating an random excuse generator
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- Used languages :-java,css, html
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- Used languages :-javascript,css, html
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+For Hardware:N.A.
 
 ### Implementation
-For Software:
+For Software: https://yazeeen07.github.io/Random_excuse/
 # Installation
 [commands]
 
